@@ -1,6 +1,15 @@
 .bg{
-    height: 100px;
-    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    background-color: rgb(14, 14, 14);
+}
+.bg .box{
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    color: silver;
+    text-decoration: none;
 }
 div link{
     /* color: brown; */
